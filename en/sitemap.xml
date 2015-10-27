@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/en/</loc>
-<lastmod>2015-08-26T20:03:33-00:00</lastmod>
+<lastmod>2015-10-27T21:46:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/en/archives.html</loc>
-<lastmod>2015-08-26T20:03:33-00:00</lastmod>
+<lastmod>2015-10-27T21:46:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/en/tags.html</loc>
-<lastmod>2015-08-26T20:03:33-00:00</lastmod>
+<lastmod>2015-10-27T21:46:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/en/categories.html</loc>
-<lastmod>2015-08-26T20:03:33-00:00</lastmod>
+<lastmod>2015-10-27T21:46:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/en/pages/about.html</loc>
-<lastmod>2012-09-23T00:00:00+08:00</lastmod>
+<lastmod>2015-08-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,85 +46,71 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/en/second-article.html</loc>
-<lastmod>2012-02-29T00:00:00+08:00</lastmod>
+<loc>/en/sheng-huo-zhuang-tai-zh_cn.html</loc>
+<lastmod>2015-04-29T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/en/zhong-wen-ce-shi-1-zh_cn.html</loc>
-<lastmod>2012-02-29T00:00:00+08:00</lastmod>
+<loc>/en/debian.html</loc>
+<lastmod>2015-03-29T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/en/zhong-wen-ce-shi-2.html</loc>
-<lastmod>2012-02-29T00:00:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/en/zhong-wen-ce-shi-article.html</loc>
-<lastmod>2012-02-29T00:00:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/en/tag/baz.html</loc>
-<lastmod>2010-03-14T00:00:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/en/category/fen-lei-1.html</loc>
-<lastmod>2012-02-29T00:00:00+08:06</lastmod>
+<loc>/en/category/life.html</loc>
+<lastmod>2015-04-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/en/category/fen-lei-2.html</loc>
-<lastmod>2012-02-29T00:00:00+08:06</lastmod>
+<loc>/en/category/linux.html</loc>
+<lastmod>2015-03-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/en/category/misc.html</loc>
-<lastmod>2012-02-29T00:00:00+08:06</lastmod>
+<loc>/en/tag/debian.html</loc>
+<lastmod>2015-03-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/en/tag/baz.html</loc>
-<lastmod>2012-02-29T00:00:00+08:06</lastmod>
+<loc>/en/tag/life.html</loc>
+<lastmod>2015-04-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/en/tag/foo.html</loc>
-<lastmod>2012-02-29T00:00:00+08:06</lastmod>
+<loc>/en/tag/gnu.html</loc>
+<lastmod>2015-03-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/en/tag/bar.html</loc>
-<lastmod>2012-02-29T00:00:00+08:06</lastmod>
+<loc>/en/tag/sheng-huo.html</loc>
+<lastmod>2015-04-29T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/en/tag/linux.html</loc>
+<lastmod>2015-03-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/en/author/zeroman.html</loc>
-<lastmod>2012-02-29T00:00:00+08:06</lastmod>
+<lastmod>2015-04-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
