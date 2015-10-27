@@ -4,112 +4,112 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/zhs/</loc>
-<lastmod>2015-10-27T22:13:56-00:00</lastmod>
+<loc>http://51feel.info/zhs/</loc>
+<lastmod>2015-10-27T23:19:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/archives.html</loc>
-<lastmod>2015-10-27T22:13:56-00:00</lastmod>
+<loc>http://51feel.info/zhs/archives.html</loc>
+<lastmod>2015-10-27T23:19:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/tags.html</loc>
-<lastmod>2015-10-27T22:13:56-00:00</lastmod>
+<loc>http://51feel.info/zhs/tags.html</loc>
+<lastmod>2015-10-27T23:19:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/categories.html</loc>
-<lastmod>2015-10-27T22:13:56-00:00</lastmod>
+<loc>http://51feel.info/zhs/categories.html</loc>
+<lastmod>2015-10-27T23:19:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/pages/about.html</loc>
+<loc>http://51feel.info/zhs/pages/about.html</loc>
 <lastmod>2015-08-01T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/pages/file.html</loc>
+<loc>http://51feel.info/zhs/pages/file.html</loc>
 <lastmod>2014-02-28T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/sheng-huo-zhuang-tai-zh_cn.html</loc>
+<loc>http://51feel.info/zhs/sheng-huo-zhuang-tai-zh_cn.html</loc>
 <lastmod>2015-04-29T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/debian.html</loc>
+<loc>http://51feel.info/zhs/debian.html</loc>
 <lastmod>2015-03-29T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/category/life.html</loc>
+<loc>http://51feel.info/zhs/category/life.html</loc>
 <lastmod>2015-04-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/category/linux.html</loc>
+<loc>http://51feel.info/zhs/category/linux.html</loc>
 <lastmod>2015-03-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/tag/debian.html</loc>
+<loc>http://51feel.info/zhs/tag/debian.html</loc>
 <lastmod>2015-03-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/tag/life.html</loc>
+<loc>http://51feel.info/zhs/tag/life.html</loc>
 <lastmod>2015-04-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/tag/gnu.html</loc>
+<loc>http://51feel.info/zhs/tag/gnu.html</loc>
 <lastmod>2015-03-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/tag/sheng-huo.html</loc>
+<loc>http://51feel.info/zhs/tag/sheng-huo.html</loc>
 <lastmod>2015-04-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/tag/linux.html</loc>
+<loc>http://51feel.info/zhs/tag/linux.html</loc>
 <lastmod>2015-03-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhs/author/zeroman.html</loc>
+<loc>http://51feel.info/zhs/author/zeroman.html</loc>
 <lastmod>2015-04-29T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
